@@ -9,7 +9,7 @@ export class Http {
     this.cancelToken = axios.CancelToken;
     this.isCancel = axios.isCancel;
     this.config = {
-      headers: { Authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MywiaWF0IjoxNjI2NzE0NzY5LCJleHAiOjE2MjkzMDY3Njl9.6A721mGBxBF1NEfJbCLbfe2GFwB81U3-GIUCV-5G0P8' },
+      headers: { Authorization: 'Bearer xxx' },
     };
   }
 
